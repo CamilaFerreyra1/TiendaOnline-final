@@ -1,0 +1,18 @@
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Cami\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\OneDrive\Escritorio\Cami\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\OneDrive\Escritorio\Cami\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Cami\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Cami\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\usuario\OneDrive\Escritorio\Cami\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\usuario\OneDrive\Escritorio\Cami\WebTienda\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\OneDrive\Escritorio\Cami\WebTienda\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\OneDrive\Escritorio\Cami\WebTienda\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\Cami\WebTienda\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\Cami\WebTienda\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\usuario\OneDrive\Escritorio\Cami\WebTienda\CapaEntidad\obj\Debug\CapaEntidad.pdb
